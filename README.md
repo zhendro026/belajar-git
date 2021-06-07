@@ -1,2 +1,2 @@
 # belajar-git
-trainning devops idn
+# trainning devops idn
